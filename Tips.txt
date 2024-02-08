@@ -1,0 +1,3 @@
+- To use .to_excel() function, must enter in Pycharm console: pip3 install openpyxl.
+- When executing the program, do not have the excel dataset file open.
+- Add column names to the dataframe.
